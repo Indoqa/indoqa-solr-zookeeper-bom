@@ -49,7 +49,7 @@
 
   <dependencyManagement>
     <dependencies>
-     <!-- Solr / Lucene -->
+      <!-- Solr / Lucene -->
       <dependency>
         <groupId>org.apache.solr</groupId>
         <artifactId>solr-solrj</artifactId>
@@ -159,6 +159,14 @@
         <groupId>com.indoqa.solr</groupId>
         <artifactId>solr-spring-client</artifactId>
         <version>${solr-spring-client-version}</version>
+      </dependency>
+      
+      <!-- Solr Test -->
+      <dependency>
+        <groupId>org.apache.solr</groupId>
+        <artifactId>solr-test-framework</artifactId>
+        <version>${solr-version}</version>
+        <scope>test</scope>
       </dependency>
     
       <!-- Zookeeper -->
