@@ -38,7 +38,7 @@
     <solr-version>7.2.0</solr-version>
     <zookeeper-version>3.4.10</zookeeper-version>
 
-    <solr-spring-client-version>7.2.0-SNAPSHOT</solr-spring-client-version>
+    <solr-spring-client-version>7.2.1-SNAPSHOT</solr-spring-client-version>
     <indoqa-solr-facet-api-version>0.2.0</indoqa-solr-facet-api-version>
 
     <indoqa-zookeeper-version>1.0.1-SNAPSHOT</indoqa-zookeeper-version>
