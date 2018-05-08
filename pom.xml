@@ -28,7 +28,7 @@
   </parent>
 
   <artifactId>indoqa-solr-zookeeper-bom</artifactId>
-  <version>7.2.0.0-SNAPSHOT</version>
+  <version>7.2.1.0-SNAPSHOT</version>
 
   <name>Indoqa Solr/Zookeeper BOM</name>
   <url>https://github.com/indoqa/indoqa-solr-zookeeper-bom</url>
@@ -39,7 +39,7 @@
     <zookeeper-version>3.4.10</zookeeper-version>
 
     <solr-spring-client-version>7.2.1-SNAPSHOT</solr-spring-client-version>
-    <indoqa-solr-facet-api-version>0.2.0</indoqa-solr-facet-api-version>
+    <indoqa-solr-facet-api-version>0.2.1-SNAPSHOT</indoqa-solr-facet-api-version>
 
     <indoqa-zookeeper-version>1.0.1-SNAPSHOT</indoqa-zookeeper-version>
     <indoqa-zookeeper-config-version>1.0.1-SNAPSHOT</indoqa-zookeeper-config-version>
