@@ -34,15 +34,15 @@
   <description>Indoqa Solr/Zookeeper Bill of Materials</description>
 
   <properties>
-    <solr-version>8.11.1</solr-version>
+    <solr-version>8.11.2</solr-version>
     <zookeeper-version>3.6.2</zookeeper-version>
 
-    <solr-spring-client-version>8.1.1-SNAPSHOT</solr-spring-client-version>
-    <indoqa-solr-facet-api-version>0.2.2-SNAPSHOT</indoqa-solr-facet-api-version>
+    <solr-spring-client-version>8.11.2.0</solr-spring-client-version>
+    <indoqa-solr-facet-api-version>0.2.3</indoqa-solr-facet-api-version>
 
-    <indoqa-zookeeper-version>1.0.1</indoqa-zookeeper-version>
-    <indoqa-zookeeper-config-version>1.0.1</indoqa-zookeeper-config-version>
-    <indoqa-zookeeper-queue-version>1.0.1</indoqa-zookeeper-queue-version>
+    <indoqa-zookeeper-version>3.6.2.0</indoqa-zookeeper-version>
+    <indoqa-zookeeper-config-version>3.6.2.0</indoqa-zookeeper-config-version>
+    <indoqa-zookeeper-queue-version>3.6.2.0</indoqa-zookeeper-queue-version>
 
     <curator-test-version>5.2.0</curator-test-version>
   </properties>
