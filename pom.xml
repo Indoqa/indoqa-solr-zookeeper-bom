@@ -35,7 +35,7 @@
   <description>Indoqa Solr/Zookeeper Bill of Materials</description>
 
   <properties>
-    <solr-spring-client-version>9.6.1.0-SNAPSHOT</solr-spring-client-version>
+    <solr-spring-client-version>9.6.1.1-SNAPSHOT</solr-spring-client-version>
     <shaded-solrj-version>9.6.1-SNAPSHOT</shaded-solrj-version>
     <solr-version>9.6.1</solr-version>
     <indoqa-solr-facet-api-version>0.2.4-SNAPSHOT</indoqa-solr-facet-api-version>
