@@ -23,8 +23,8 @@
 
   <parent>
     <groupId>com.indoqa</groupId>
-    <artifactId>indoqa-oss-parent</artifactId>
-    <version>6</version>
+    <artifactId>indoqa-maven-root</artifactId>
+    <version>26</version>
   </parent>
 
   <artifactId>indoqa-solr-zookeeper-bom</artifactId>
@@ -35,17 +35,17 @@
   <description>Indoqa Solr/Zookeeper Bill of Materials</description>
 
   <properties>
-    <solr-spring-client-version>9.6.1.1-SNAPSHOT</solr-spring-client-version>
-    <shaded-solrj-version>9.6.1-SNAPSHOT</shaded-solrj-version>
+    <solr-spring-client-version>9.6.1.1</solr-spring-client-version>
+    <shaded-solrj-version>9.6.1</shaded-solrj-version>
     <solr-version>9.6.1</solr-version>
-    <indoqa-solr-facet-api-version>0.2.4-SNAPSHOT</indoqa-solr-facet-api-version>
+    <indoqa-solr-facet-api-version>0.2.4</indoqa-solr-facet-api-version>
 
     <lucene-version>9.10.0</lucene-version>
     <zookeeper-version>3.9.1</zookeeper-version>
 
-    <indoqa-zookeeper-version>3.9.1.0-SNAPSHOT</indoqa-zookeeper-version>
-    <indoqa-zookeeper-config-version>3.9.1.0-SNAPSHOT</indoqa-zookeeper-config-version>
-    <indoqa-zookeeper-queue-version>3.9.1.0-SNAPSHOT</indoqa-zookeeper-queue-version>
+    <indoqa-zookeeper-version>3.9.1.0</indoqa-zookeeper-version>
+    <indoqa-zookeeper-config-version>3.9.1.0</indoqa-zookeeper-config-version>
+    <indoqa-zookeeper-queue-version>3.9.1.0</indoqa-zookeeper-queue-version>
 
     <curator-test-version>5.7.0</curator-test-version>
   </properties>
