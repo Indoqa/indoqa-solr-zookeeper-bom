@@ -27,14 +27,14 @@
   </parent>
 
   <artifactId>indoqa-solr-zookeeper-bom</artifactId>
-  <version>9.6.1.1-SNAPSHOT</version>
+  <version>9.6.1.0-SNAPSHOT</version>
 
   <name>Indoqa Solr/Zookeeper BOM</name>
   <url>https://github.com/indoqa/indoqa-solr-zookeeper-bom</url>
   <description>Indoqa Solr/Zookeeper Bill of Materials</description>
 
   <properties>
-    <solr-spring-client-version>9.6.1.1</solr-spring-client-version>
+    <solr-spring-client-version>9.6.1.0</solr-spring-client-version>
     <shaded-solrj-version>9.6.1</shaded-solrj-version>
     <solr-version>9.6.1</solr-version>
     <indoqa-solr-facet-api-version>0.2.4</indoqa-solr-facet-api-version>
