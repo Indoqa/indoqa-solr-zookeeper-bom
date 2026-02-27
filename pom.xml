@@ -27,7 +27,7 @@
   </parent>
 
   <artifactId>indoqa-solr-zookeeper-bom</artifactId>
-  <version>9.6.1.1</version>
+  <version>9.6.1.2-SNAPSHOT</version>
 
   <name>Indoqa Solr/Zookeeper BOM</name>
   <url>https://github.com/indoqa/indoqa-solr-zookeeper-bom</url>
@@ -136,6 +136,6 @@
     <connection>scm:git:git@github.com:Indoqa/indoqa-solr-zookeeper-bom.git</connection>
     <developerConnection>scm:git:git@github.com:Indoqa/indoqa-solr-zookeeper-bom.git</developerConnection>
     <url>https://github.com/Indoqa/indoqa-boot-bom</url>
-    <tag>indoqa-solr-zookeeper-bom-9.6.1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
